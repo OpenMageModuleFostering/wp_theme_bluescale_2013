@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/wp_theme_bluescale_2013",
+    "type": "magento-module",
+    "license": "Creative-Commons-Attribution-3.0-Unported-License",
+    "homepage": "",
+    "description": "Magento Theme - Bluescale 2013 (Web-Experiment.Info)",
+    "authors": [
+    {
+        "name": "WebAndPeople",
+        "email": "design@webandpeople.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
